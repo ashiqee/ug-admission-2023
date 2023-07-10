@@ -122,7 +122,7 @@ nav a {
   padding: 14px 10px;
   width: 220px;
   outline: none;
-  color: #864b21;
+  color: #611313ec;
   border-radius: 24px;
   transition: 0.25px;
 }
@@ -139,7 +139,7 @@ nav a {
   display: block;
   margin: 20px auto;
   text-align: center;
-  border: 3px solid #ffc400ec;
+  border: 3px solid #611313ec;
   padding: 14px 25px;
 
   color: #0e0a08;
@@ -148,7 +148,8 @@ nav a {
 }
 
 .login-form input[type="submit"]:hover {
-  background: #ffc400ec;
+  background: #611313ec;
+  color: #fff8f3;
 }
 
 .btn {
